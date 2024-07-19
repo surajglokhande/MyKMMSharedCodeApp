@@ -1,2 +1,2 @@
 # MyKMMSharedCodeApp
-here you can find the  Kotlin Multiplatform Mobile shared code.
+Here you can find the code related to Kotlin Multiplatform Mobile shared code.
